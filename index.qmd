@@ -1,0 +1,10 @@
+---
+title: "STA 9705 SITE"
+subtitle: "Heres all of my work for this course!"
+image: linkedinheadshot.jpeg
+---
+
+## About Me
+
+Hi! My name is Timothy Golubowski, and I am a data practitioner obsessed with the Music and Entertainment Industry.
+
