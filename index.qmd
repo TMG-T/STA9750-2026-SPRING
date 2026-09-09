@@ -1,10 +1,24 @@
 ---
-title: "STA 9705 SITE"
-subtitle: "Heres all of my work for this course!"
-image: linkedinheadshot.jpeg
+title: "About Me"
+subtitle: ""
 ---
 
-## About Me
+::: {style="float: left; margin-right: 15px;"}
+![](headshot.jpeg){width=200}
+:::
+Hi! My name is Timothy Golubowski, I am a data practitioner obsessed with the Music and Entertainment Industry, currently pursuing a MS in Business Analytics from the Zicklin School of Business at CUNY Baruch College.   
 
-Hi! My name is Timothy Golubowski, and I am a data practitioner obsessed with the Music and Entertainment Industry.
+\
+
+# Previous Projects 
+Click on any of these links to see my work in action! 
+
++ [USA Debt Time Series Analysis](PersonalProject1.html)
++ [New York State Motor Vehicle Collisions Analysis](PersonalProject2.html)
++ [Movie Theatre Database](PersonalProject3.html)
++ [Resturant Community Based Organization Matching App](PersonalProject4.html)
++ [Entertainment Stock Performance Analysis](PersonalProject5.html)
+
+
+
 
