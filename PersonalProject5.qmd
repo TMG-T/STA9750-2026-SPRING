@@ -1,0 +1,13 @@
+---
+title: "Entertainment Stock Performance Analysis"
+description: "Survey of Entertainment Industry Stock perforamnce using AWS Cloud Services "
+author: "Timothy Golubowski"
+---
+
+## Description
+
+An analysis of stock performance in the entertainment sector, done with AWS Kinesis, Lambda, S3, Glue, and Python
+
+This is a analysis of the monthly average stock performance of numerous public media companies present on the NASDAQ, with data from AlphaVantage API.
+
+**Direct Link:** https://github.com/TMG-T/Entertainment-Stock-Performance-Analysis-

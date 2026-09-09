@@ -1,0 +1,11 @@
+---
+title: "Movie Theatre Database"
+description: "Database Architecture for a Movie Theatre"
+author: "Timothy Golubowski"
+---
+
+## Description
+
+Database architecture for a fully operational administrative database for a hypothetical movie theatre chain with three locations. 
+
+**Direct Link:** https://github.com/TMG-T/Movie-Theatre-Database

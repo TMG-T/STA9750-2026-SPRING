@@ -1,0 +1,11 @@
+---
+title: "Resturant CBO Matching App"
+description: "Fullstack logistics application with matching algorithm "
+author: "Timothy Golubowski, John Caussian"
+---
+
+## Description
+This repository contains a data-driven restaurant matching algorithm designed to support community-based organizations (CBOs) and food access initiatives in identifying optimal restaurant partners for meal distribution programs. The project focuses on aligning operational constraints, geographic coverage, and capacity considerations to create efficient, equitable, and scalable matching outcomes. 
+
+**Direct Link:** https://github.com/TMG-T/Resturant-CBO-Matching-App
+

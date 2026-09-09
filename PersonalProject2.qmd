@@ -1,0 +1,13 @@
+---
+title: "New York State Motor Vehicle Collisions Analysis"
+description: "Statistical Analysis of NYS Vehicle Collisions"
+author: "Timothy Golubowski"
+---
+
+## Description 
+This project analyzes over 100,000 New York State motor vehicle collision records to identify trends, contributing factors, and relationships associated with crash frequency and vehicle damage. Using real-world public safety data, the analysis demonstrates end-to-end data analytics capabilities, including large-scale data cleaning, exploratory analysis, statistical reasoning, data visualization, and database integration using Python.
+
+Technologies used include Python, Pandas, NumPy, Matplotlib, SQLite, and Jupyter Notebook. Future enhancements include geospatial collision analysis, regression modeling to predict crash severity, and expanding the dataset across multiple years to capture long-term trends
+
+
+**Direct Link:** https://github.com/TMG-T/New-York-State-Motor-Vehicle-Collisions-Analysis
