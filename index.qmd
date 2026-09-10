@@ -4,7 +4,7 @@ subtitle: ""
 ---
 
 ::: {style="float: left; margin-right: 15px;"}
-![](headshot.jpeg){width=200}
+![](docs/headshot.jpeg){width=200}
 :::
 Hi! My name is Timothy Golubowski, I am a data practitioner obsessed with the Music and Entertainment Industry, currently pursuing a MS in Business Analytics from the Zicklin School of Business at CUNY Baruch College.   
 
